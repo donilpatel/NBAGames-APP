@@ -38,7 +38,7 @@ NBAGamesApp/
 
 ## Screenshots
 
-_Add screenshots here if available_
+coming soon...
 
 ## License
 
